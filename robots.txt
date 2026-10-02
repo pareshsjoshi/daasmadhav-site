@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pareshsjoshi.github.io/daasmadhav-site/sitemap.xml

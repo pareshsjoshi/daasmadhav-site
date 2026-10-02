@@ -1,0 +1,11 @@
+{
+  "name": "भक्तिरंग साहित्यसंग्रह",
+  "short_name": "भक्तिरंग",
+  "lang": "mr",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fffaf0",
+  "theme_color": "#702d22",
+  "icons": [{"src":"favicon.svg","sizes":"any","type":"image/svg+xml"}]
+}
+
